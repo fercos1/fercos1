@@ -1,56 +1,50 @@
-## Hi there 👋
-💡 María Fernanda Costilla
-Analista de Datos en formación | Experiencia en gestión, operaciones y toma de decisiones basadas en datos
+# 👋 ¡Hola! Soy Fernanda Costilla
 
-👋 Sobre mí
+Soy Analista de Datos en formación con más de 10 años de experiencia en gestión, operaciones y compras en el sector gastronómico (McDonald’s).  
+Actualmente me encuentro enfocada en aplicar mis conocimientos en análisis, visualización y gestión de datos para la toma de decisiones basada en evidencia.
 
-Soy una profesional con más de 10 años de experiencia liderando operaciones, control de inventarios, análisis de resultados y gestión de equipos en McDonald’s.
-Actualmente me encuentro en transición hacia el área de Análisis de Datos, combinando mi experiencia operativa con herramientas tecnológicas que permiten transformar la información en insights valiosos para la toma de decisiones estratégicas.
+---
 
-Me apasiona el análisis, la visualización y la optimización de procesos a través de los datos.
-Busco aportar valor mediante la mejora continua, la organización y la comprensión del negocio desde una mirada analítica.
+## 🎯 Objetivo profesional
+Incorporarme a un equipo donde pueda **aportar valor a través del análisis de datos**, desarrollando reportes e insights que optimicen procesos, identifiquen oportunidades y respalden decisiones estratégicas.  
+Busco seguir creciendo en el área de **Data Analytics / Business Intelligence**, combinando mi experiencia operativa con herramientas modernas de análisis.
 
-🎓 Formación y desarrollo
+---
 
-Tecnicatura en Análisis de Datos – UBA (en curso)
+## 🧠 Habilidades técnicas
+- **Lenguajes:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
+- **Herramientas:** Power BI, Google Colab, Visual Studio, Excel avanzado  
+- **Bases de datos:** SQL básico  
+- **Otros:** Limpieza, transformación y visualización de datos, storytelling con datos, análisis financiero y operativo  
 
-Fundamentos de Inteligencia Artificial – IBM SkillsBuild + Guayerd (2025)
+---
 
-Data Analytics – IBM SkillsBuild + Guayerd (2024)
+## 📂 Proyectos destacados
 
-Data Science – Coderhouse (2023)
+| Proyecto | Descripción | Tecnologías |
+|-----------|--------------|--------------|
+| [📊 Dashboard de Ventas – Power BI](https://github.com/fercos1/dashboard-ventas-powerbi) | Análisis de ventas e identificación de tendencias para la toma de decisiones comerciales. | Power BI, Excel |
+| [🐍 Análisis de Datos en Colab](https://github.com/fercos1/analisis-datos-colab-python) | Exploración y visualización de datos con Python y Google Colab. | Python, Pandas, Seaborn |
+| [💰 ONG – Ingresos y Egresos](https://github.com/fercos1/analisis-finanzas-ong) | Evaluación de ingresos, egresos y eficiencia de recursos de una organización sin fines de lucro. | Excel, Power BI |
+| [🛒 Tienda con IA en Visual Studio](https://github.com/fercos1/tienda-ia-visualstudio) | Proyecto en desarrollo aplicando IA en Visual Studio para análisis de ventas y predicciones. | Visual Studio, Python, IA |
 
-Data Analytics – Coderhouse (2022)
+---
 
-Contador Público (incompleto) – UBA
+## 📈 Formación
+- **Tecnicatura en Análisis de Datos** - UBA
+- **Científico de Datos** – Coderhouse  
+- **Analista de Datos** – Coderhouse,Guayerd e IBM SkillsBuild 
+- **Contabilidad (3 años cursados)** – UBA 
+- Cursos adicionales en **visualización de datos, estadística y análisis financiero**
 
-🧠 Habilidades técnicas
+---
 
-Análisis y visualización de datos: Power BI, Excel avanzado, Google Sheets, Looker Studio
+## 💬 Contacto
+📧 **costillafernanda@email.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/fernandacostilla/)  
+🌍 [GitHub](https://github.com/fercos1)
 
-Programación: Python (Pandas, Numpy, Matplotlib)
+---
 
-Bases de datos: SQL básico
+⭐ *“Los datos cuentan una historia: mi trabajo es descubrirla y hacerla comprensible para los demás.”*
 
-Modelado y limpieza de datos
-
-Reporting y storytelling con datos
-
-🚀 Proyectos destacados
-
-Dashboard de Análisis de ingresos y egresos – ONG Potenciar Solidario
-Desarrollo de tablero interactivo en Power BI para la toma de decisiones en distintas áreas de una organización sin fines de lucro.
-
-Análisis básico de datos de canciones tomadas, contienen métricas numéricas generadas por Spotify
-el objetivo es lograr un análisis que pueda comunicar una posible puntuación en la app de spotify, de acuerdo a las variables que conforman las 20 columnas del conjunto de datos.
-– Proyecto Coderhouse
-Creación de modelo predictivo para optimizar decisiones comerciales y proyectar demanda.
-
-
-📬 Contacto
-
-📧 costillafernanda@gmail.com
-
-🌐 LinkedIn – María Fernanda Costilla
-
-💬 “Creo en el poder de los datos para mejorar decisiones, procesos y personas. Aprender, analizar y crear valor son mis motores diarios.”
