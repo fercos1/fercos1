@@ -1,3 +1,5 @@
+![Banner](A_digital_graphic_design_header_combines_text_and_.png)
+
 # 👋 ¡Hola! Soy Fernanda Costilla
 
 Soy Analista de Datos en formación con más de 10 años de experiencia en gestión, operaciones y compras en el sector gastronómico (McDonald’s).  
