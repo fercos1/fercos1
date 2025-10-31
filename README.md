@@ -1,4 +1,4 @@
-![Banner](A_digital_graphic_design_header_combines_text_and_.png)
+![Banner](banner.png)
 
 # 👋 ¡Hola! Soy Fernanda Costilla
 
