@@ -13,7 +13,7 @@ Busco seguir creciendo en el área de **Data Analytics / Business Intelligence**
 
 ## 🧠 Habilidades técnicas
 - **Lenguajes:** Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- **Herramientas:** Power BI, Google Colab, Visual Studio, Excel avanzado  
+- **Herramientas:** Power BI, Google Colab, Visual Studio, Excel, Looker Studio
 - **Bases de datos:** SQL básico  
 - **Otros:** Limpieza, transformación y visualización de datos, storytelling con datos, análisis financiero y operativo  
 
